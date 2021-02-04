@@ -1,0 +1,12 @@
+{
+  "name": "lerna-components",
+  "private": true,
+  "scripts": {
+    "serve": "vuepress dev src",
+    "build:lib": "vuepress build src",
+    "build:doc": "vuepress build src"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
